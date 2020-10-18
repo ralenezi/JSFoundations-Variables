@@ -1,6 +1,6 @@
 let name = 'Rahaf'
 let age = 23
-hobby = 'time wasting'
+let hobby = 'time wasting'
 console.log(
   `Mr./Mrs. ${name}, in 33 years, you will be ${
     age + 33
